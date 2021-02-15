@@ -1,4 +1,4 @@
-# 1inch-v2-audits
+# 1inch v2 audits
 
 ### [Certik](https://raw.githubusercontent.com/1inch-exchange/1inch-v2-audits/master/Certik%20-%201inch%20v2%20Audit%20Report.pdf)
 ### [Chainsulting](https://raw.githubusercontent.com/1inch-exchange/1inch-v2-audits/master/Chainsulting%20-%201inch%20v2%20Audit%20Report.pdf)
